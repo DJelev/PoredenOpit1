@@ -8,8 +8,7 @@ kj
 jhh
 j;hu
 
-<<<<<<< HEAD
+
 main branch 1
-=======
 changes for branch
->>>>>>> branch1
+mdasd
